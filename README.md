@@ -14,8 +14,7 @@
 ```
 ccaf/
 ├── README.md                                          ← 你正在看的這份
-├── Claude_Certified_Architect_–_Foundations_Certification_Exam_Guide.pdf
-│                                                      ← 官方 40 頁原典
+├── Claude_Certified_Architect_–_Foundations_Certification_Exam_Guide.pdf ← 官方 40 頁原典                                                   
 │
 ├── system_prompt_domain_1.md                          ← 教 Domain 1 的 system prompt
 ├── system_prompt_domain_2.md                          ← 教 Domain 2 的 system prompt
@@ -25,6 +24,7 @@ ccaf/
 │
 ├── CCAF_Handoff_Context.md                            ← ★ 最重要的一份: 學習狀態 + 40 個釐清概念 + 練習階段判斷流程
 ├── CCAF_Output_Fix_Toolkit.md                         ← ★ 全工具光譜 (L0-L6) + 4-Branch + Context Loading 三維 + 練習心法
+│
 ├── CCAF_Domain_1_Summary.md                           ← Domain 1 deep-dive (含 10 個釐清概念)
 ├── CCAF_Domain_2_Summary.md                           ← Domain 2 deep-dive (含 10 個釐清概念)
 ├── CCAF_Domain_3_Summary.md                           ← Domain 3 deep-dive (含 10 個釐清概念)
